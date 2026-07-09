@@ -27,7 +27,7 @@ detection practice — as I work toward an entry-level SOC Analyst role.
 
 #### 📫 How to reach me
 - **LinkedIn:** linkedin.com/in/durgaprasad-veesam
-- **Email:** durgaprasadveesam62@gmail.com
+- **Email:** durgaprasadveesam.vdp@gmail.com
 
 ---
 
