@@ -1,34 +1,28 @@
-# Hi, I'm Durgaprasad Veesam 👋
+# Durgaprasad Veesam
 
-### Aspiring SOC Analyst (L1) · Computer Science Graduate
+Entry-level Cyber Security Analyst from Hyderabad, India. B.Tech in Computer Science (2024) with 1 year of experience as a Network Administrator.
 
-I'm building a career in cybersecurity with a focus on **Security Operations**.
-This profile is where I document my hands-on learning — labs, notes, and
-detection practice — as I work toward an entry-level SOC Analyst role.
+## Open to
+Cyber Security Analyst, SOC Analyst, Network Security, VAPT and Vulnerability Analyst roles (entry-level)
 
----
+## Skills
+- Network security: TCP/IP, DNS, DHCP, firewalls, Wireshark
+- Penetration testing basics: Nmap, Metasploit, Burp Suite, OWASP Top 10
+- Security operations basics: log analysis, alert triage, incident response fundamentals
+- Systems: Linux command line, Windows, VirtualBox, Kali Linux
 
-#### 🔭 Currently learning
-- SIEM fundamentals (Splunk / Wazuh)
-- Log & event analysis and alert triage
-- Network traffic analysis with Wireshark
-- The MITRE ATT&CK framework and common attack techniques
-- Working toward the **Google Cybersecurity Certificate** and **CompTIA Security+**
+## Projects
+- [Week 1: Cybersecurity Lab Setup with VirtualBox and Kali Linux](https://github.com/durgaprasadveesam-sec/NETWORKWALKS-DURGAPRASAD-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP) (Networkwalks Cybersecurity Internship)
 
-#### 🛠️ Skills & Tools
-`SIEM` · `Splunk` · `Wireshark` · `Log Analysis` · `Incident Response (fundamentals)`
-`TCP/IP` · `Firewalls` · `DNS` · `DHCP` · `Windows` · `Linux` · `MITRE ATT&CK`
+## Hands-on practice
+- TryHackMe: https://tryhackme.com/p/cyberpunk00 (62 rooms completed, still working on it)
+- PortSwigger Web Security Academy: 12 labs solved so far (still working on it)
 
-#### 📂 What you'll find on this profile
-- 📝 Notes on core security concepts
-- 🧪 Home SIEM lab documentation
-- 🔍 TryHackMe / hands-on lab writeups
-- 🚨 Detection rules and queries I'm practicing
+## Certifications and training
+- Introduction to Cybersecurity, Cisco Networking Academy
+- Networking Basics, Cisco Networking Academy
+- Advance Certificate in Cybercrime and Digital Justice (participation), Naksh Foundation
 
-#### 📫 How to reach me
-- **LinkedIn:** linkedin.com/in/durgaprasad-veesam
-- **Email:** durgaprasadveesam.vdp@gmail.com
-
----
-
-*Always learning. Open to entry-level SOC Analyst opportunities.*
+## Contact
+- LinkedIn: https://www.linkedin.com/in/durgaprasad-v-128920420/
+- Email: durgaprasadveesam.vdp@gmail.com
